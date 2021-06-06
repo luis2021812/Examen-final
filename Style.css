@@ -6,7 +6,7 @@ header{
 
 
 body{
-	background: url(Nike2.1.jpg);
+	background color: black;
 	background-size: 90%;
 }
 
@@ -30,4 +30,5 @@ table, th, td{
 	border: 2px solid White;
 	border-collapse: collapse;
 }
+
 
