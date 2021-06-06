@@ -1,0 +1,33 @@
+header{
+	font-size: 50px;
+	color: 	Blue;
+	text-align: center;
+ }
+
+
+body{
+	background: url(Nike2.1.jpg);
+	background-size: 90%;
+}
+
+p{
+	color: Yellow;
+	text-align: center; 
+
+}
+h2{
+	color: White;
+	text-align: center;
+}
+
+table{
+	color: Orange;
+	margin: auto;
+	width: 200px;
+}
+
+table, th, td{
+	border: 2px solid White;
+	border-collapse: collapse;
+}
+
