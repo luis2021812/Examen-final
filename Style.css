@@ -8,16 +8,18 @@ header{
 body{
 	background: url(nike2.1.jpg);
 	background-size: 90%;
+
+
+p{
+	color: Yellow;
+	text-align: center; 
+	
 }
 
 
 h1{     color: white;
 	text-aling: center;
 }
-
-p{
-	color: Yellow;
-	text-align: center; 
 
 }
 h2{
